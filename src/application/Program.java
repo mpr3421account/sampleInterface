@@ -14,5 +14,7 @@ public class Program {
         System.out.println("Circle Radius: " + String.format("%.3f", s1.area()));
         System.out.println("Rectangle Color: " + s2.getColor());
         System.out.println("Rectangle Area: " + String.format("%.3f", s2.area()));
+
+        System.out.println("Final Final");
     }
 }
